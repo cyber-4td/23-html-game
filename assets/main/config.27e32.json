@@ -1,0 +1,80 @@
+{
+    "paths": {},
+    "uuids": [
+        "06fNY8dBNBz5p0Nr/LWaai",
+        "2ae5QJeFhO9JZQcokPpwGj",
+        "680cl3yutEU7Ejcz9Mdy8q",
+        "93XAaIsgxJKZ7tfOzRSNb3",
+        "94OdLmP5ZKJIPS4PFoG0j4",
+        "97mbX+lDJB544Tx6C0avIj",
+        "99lm+GtcJMV4ZWO1wvJf9J",
+        "a9ImQCY5VDbYFJN6YNYR4M",
+        "ae0DmyCjBA+I/+pKCup97Y",
+        "b10yK8yuVDX61GEiRD/Wax",
+        "b2nZTxnoBLpIHzfngSaymB",
+        "cdtWKNostJaJhGEO/vluhh",
+        "ecpdLyjvZBwrvm+cedCcQy",
+        "f893gNH+dC+61ZdTEii3/O",
+        "fcBN2EiFRILL47MtrVspxD"
+    ],
+    "scenes": {
+        "db://assets/main/Main.fire": "ae0DmyCjBA+I/+pKCup97Y",
+        "db://assets/main/loading.fire": "06fNY8dBNBz5p0Nr/LWaai"
+    },
+    "redirect": [
+        "ecpdLyjvZBwrvm+cedCcQy",
+        0
+    ],
+    "deps": [
+        "internal"
+    ],
+    "packs": {
+        "015d22620": [
+            "680cl3yutEU7Ejcz9Mdy8q",
+            "93XAaIsgxJKZ7tfOzRSNb3",
+            "94OdLmP5ZKJIPS4PFoG0j4",
+            "99lm+GtcJMV4ZWO1wvJf9J",
+            "a9ImQCY5VDbYFJN6YNYR4M",
+            "cdtWKNostJaJhGEO/vluhh"
+        ],
+        "021a9ed41": [
+            "06fNY8dBNBz5p0Nr/LWaai",
+            "2ae5QJeFhO9JZQcokPpwGj",
+            "97mbX+lDJB544Tx6C0avIj",
+            "b10yK8yuVDX61GEiRD/Wax",
+            "b2nZTxnoBLpIHzfngSaymB",
+            "f893gNH+dC+61ZdTEii3/O",
+            "fcBN2EiFRILL47MtrVspxD"
+        ]
+    },
+    "name": "main",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false,
+    "versions": {
+        "import": [
+            "015d22620",
+            "a8c21",
+            "021a9ed41",
+            "c2edb",
+            "ae0DmyCjBA+I/+pKCup97Y",
+            "6563e"
+        ],
+        "native": [
+            "680cl3yutEU7Ejcz9Mdy8q",
+            "60fab",
+            "93XAaIsgxJKZ7tfOzRSNb3",
+            "53e10",
+            "94OdLmP5ZKJIPS4PFoG0j4",
+            "2de35",
+            "99lm+GtcJMV4ZWO1wvJf9J",
+            "e3fcc",
+            "a9ImQCY5VDbYFJN6YNYR4M",
+            "0f6c5",
+            "cdtWKNostJaJhGEO/vluhh",
+            "c5643"
+        ]
+    }
+}
