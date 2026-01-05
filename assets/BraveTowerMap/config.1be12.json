@@ -1,0 +1,139 @@
+{
+    "paths": {
+        "08YEv5fHZGNrfbfv1p8yWF": [
+            "cj_01",
+            "cc.Texture2D"
+        ],
+        "19OwI0VBdIXLc9Lqd9XDV2": [
+            "cj_01",
+            "cc.SpriteFrame",
+            1
+        ],
+        "13RSWY+k1LyY8T2mtSwccc": [
+            "cj_02",
+            "cc.SpriteFrame",
+            1
+        ],
+        "c2kBEPVPBMn4L+Dk5JVqap": [
+            "cj_02",
+            "cc.Texture2D"
+        ],
+        "63bN2rTGhK+pcIs1ificSJ": [
+            "cj_03",
+            "cc.Texture2D"
+        ],
+        "925tOZn19IKrlzXxiW2KkA": [
+            "cj_03",
+            "cc.SpriteFrame",
+            1
+        ],
+        "38uzIaxRdHtIasIdgCNRHr": [
+            "cq_01",
+            "cc.SpriteFrame",
+            1
+        ],
+        "6beRSsSEdC/LOrUaslSaLF": [
+            "cq_01",
+            "cc.Texture2D"
+        ],
+        "19pa64gDtKG4snGR/njCZg": [
+            "cq_02",
+            "cc.SpriteFrame",
+            1
+        ],
+        "eeQoxy+plHLZlGft+wragk": [
+            "cq_02",
+            "cc.Texture2D"
+        ],
+        "1dzUDD8OhGBIDHEBolZ8PD": [
+            "yz_zy_dt1",
+            "cc.Texture2D"
+        ],
+        "7eXg0owqxIurDRR9YlTV9y": [
+            "yz_zy_dt1",
+            "cc.SpriteFrame",
+            1
+        ],
+        "44VP4akiBDuJfj2BQZ4H54": [
+            "yz_zy_dt2",
+            "cc.SpriteFrame",
+            1
+        ],
+        "b0I34b1rpGR573MdEO0Px7": [
+            "yz_zy_dt2",
+            "cc.Texture2D"
+        ]
+    },
+    "uuids": [
+        "08YEv5fHZGNrfbfv1p8yWF",
+        "13RSWY+k1LyY8T2mtSwccc",
+        "19OwI0VBdIXLc9Lqd9XDV2",
+        "19pa64gDtKG4snGR/njCZg",
+        "1dzUDD8OhGBIDHEBolZ8PD",
+        "38uzIaxRdHtIasIdgCNRHr",
+        "44VP4akiBDuJfj2BQZ4H54",
+        "63bN2rTGhK+pcIs1ificSJ",
+        "6beRSsSEdC/LOrUaslSaLF",
+        "7eXg0owqxIurDRR9YlTV9y",
+        "925tOZn19IKrlzXxiW2KkA",
+        "b0I34b1rpGR573MdEO0Px7",
+        "c2kBEPVPBMn4L+Dk5JVqap",
+        "eeQoxy+plHLZlGft+wragk"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {
+        "0d85507db": [
+            "08YEv5fHZGNrfbfv1p8yWF",
+            "1dzUDD8OhGBIDHEBolZ8PD",
+            "63bN2rTGhK+pcIs1ificSJ",
+            "6beRSsSEdC/LOrUaslSaLF",
+            "b0I34b1rpGR573MdEO0Px7",
+            "c2kBEPVPBMn4L+Dk5JVqap",
+            "eeQoxy+plHLZlGft+wragk"
+        ]
+    },
+    "name": "BraveTowerMap",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false,
+    "versions": {
+        "import": [
+            "0d85507db",
+            "aa4b9",
+            "13RSWY+k1LyY8T2mtSwccc",
+            "c2dc9",
+            "19OwI0VBdIXLc9Lqd9XDV2",
+            "4e6a8",
+            "19pa64gDtKG4snGR/njCZg",
+            "c1d8b",
+            "38uzIaxRdHtIasIdgCNRHr",
+            "bdb50",
+            "44VP4akiBDuJfj2BQZ4H54",
+            "13f1b",
+            "7eXg0owqxIurDRR9YlTV9y",
+            "91b61",
+            "925tOZn19IKrlzXxiW2KkA",
+            "36655"
+        ],
+        "native": [
+            "08YEv5fHZGNrfbfv1p8yWF",
+            "c3e38",
+            "1dzUDD8OhGBIDHEBolZ8PD",
+            "97579",
+            "63bN2rTGhK+pcIs1ificSJ",
+            "421e2",
+            "6beRSsSEdC/LOrUaslSaLF",
+            "88bf2",
+            "b0I34b1rpGR573MdEO0Px7",
+            "255d1",
+            "c2kBEPVPBMn4L+Dk5JVqap",
+            "6c3a7",
+            "eeQoxy+plHLZlGft+wragk",
+            "85687"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "paths": {
+        "e5dpAnDqJLoKDO1A+XlSuK": [
+            "GameJsonCfg",
+            "cc.JsonAsset"
+        ]
+    },
+    "uuids": [
+        "e5dpAnDqJLoKDO1A+XlSuK"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "run_configs",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false,
+    "versions": {
+        "import": [
+            "e5dpAnDqJLoKDO1A+XlSuK",
+            "90f9b"
+        ],
+        "native": []
+    }
+}

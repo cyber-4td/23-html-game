@@ -1,0 +1,28 @@
+{
+    "paths": {
+        "53P4SGlvVBwrfaCXvR8o2m": [
+            "GameJsonCfg",
+            "cc.JsonAsset"
+        ]
+    },
+    "uuids": [
+        "53P4SGlvVBwrfaCXvR8o2m"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "TPVP_Config",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false,
+    "versions": {
+        "import": [
+            "53P4SGlvVBwrfaCXvR8o2m",
+            "3b607"
+        ],
+        "native": []
+    }
+}

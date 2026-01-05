@@ -1,0 +1,94 @@
+{
+    "paths": {
+        "e6VdpVU8FHMoiEpLiINzNi": [
+            "BOSSlaixi",
+            "cc.AudioClip"
+        ],
+        "a7+gWiGt5DI6pPVud4yRNG": [
+            "bossyuyin",
+            "cc.AudioClip"
+        ],
+        "13KoNsE2lEEpBCLoK+X7b5": [
+            "coll",
+            "cc.AudioClip"
+        ],
+        "00b2WDNfRC9Z6OcwuKzD0l": [
+            "die",
+            "cc.AudioClip"
+        ],
+        "8aW2Ux/xJBgYcXML+tKL4k": [
+            "prop",
+            "cc.AudioClip"
+        ],
+        "1cqTnK0zZDoLyrombgRv5c": [
+            "shield",
+            "cc.AudioClip"
+        ],
+        "d4CBWcvrpER4lMqjPiw5/r": [
+            "shouji",
+            "cc.AudioClip"
+        ],
+        "b4ihK61JNEHK6Cc9HB6iZH": [
+            "upToolLv",
+            "cc.AudioClip"
+        ]
+    },
+    "uuids": [
+        "00b2WDNfRC9Z6OcwuKzD0l",
+        "13KoNsE2lEEpBCLoK+X7b5",
+        "1cqTnK0zZDoLyrombgRv5c",
+        "8aW2Ux/xJBgYcXML+tKL4k",
+        "a7+gWiGt5DI6pPVud4yRNG",
+        "b4ihK61JNEHK6Cc9HB6iZH",
+        "d4CBWcvrpER4lMqjPiw5/r",
+        "e6VdpVU8FHMoiEpLiINzNi"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "RCPDD_Audio",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false,
+    "versions": {
+        "import": [
+            "00b2WDNfRC9Z6OcwuKzD0l",
+            "ba029",
+            "13KoNsE2lEEpBCLoK+X7b5",
+            "caf7d",
+            "1cqTnK0zZDoLyrombgRv5c",
+            "e43b1",
+            "8aW2Ux/xJBgYcXML+tKL4k",
+            "dc351",
+            "a7+gWiGt5DI6pPVud4yRNG",
+            "66b28",
+            "b4ihK61JNEHK6Cc9HB6iZH",
+            "ec6d4",
+            "d4CBWcvrpER4lMqjPiw5/r",
+            "80945",
+            "e6VdpVU8FHMoiEpLiINzNi",
+            "0484c"
+        ],
+        "native": [
+            "00b2WDNfRC9Z6OcwuKzD0l",
+            "c0ad9",
+            "13KoNsE2lEEpBCLoK+X7b5",
+            "e49b3",
+            "1cqTnK0zZDoLyrombgRv5c",
+            "d1d9c",
+            "8aW2Ux/xJBgYcXML+tKL4k",
+            "fe32c",
+            "a7+gWiGt5DI6pPVud4yRNG",
+            "42b8f",
+            "b4ihK61JNEHK6Cc9HB6iZH",
+            "859ff",
+            "d4CBWcvrpER4lMqjPiw5/r",
+            "2b3b7",
+            "e6VdpVU8FHMoiEpLiINzNi",
+            "f785b"
+        ]
+    }
+}

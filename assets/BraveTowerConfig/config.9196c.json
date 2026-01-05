@@ -1,0 +1,28 @@
+{
+    "paths": {
+        "f3NrZ69+xG9aRzrglAYZEk": [
+            "GameJsonCfg",
+            "cc.JsonAsset"
+        ]
+    },
+    "uuids": [
+        "f3NrZ69+xG9aRzrglAYZEk"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "BraveTowerConfig",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false,
+    "versions": {
+        "import": [
+            "f3NrZ69+xG9aRzrglAYZEk",
+            "e3601"
+        ],
+        "native": []
+    }
+}

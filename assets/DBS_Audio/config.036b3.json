@@ -1,0 +1,157 @@
+{
+    "paths": {
+        "89IDlak2JFnq6iig1u4DEx": [
+            "boom",
+            "cc.AudioClip"
+        ],
+        "24QwSZDSNB9rWy/Rwpu9Qb": [
+            "classic",
+            "cc.AudioClip"
+        ],
+        "d8jq5X9hBPW6OI/EHge86K": [
+            "fanbei",
+            "cc.AudioClip"
+        ],
+        "adlpdNFGRFvY7/VghU9bsK": [
+            "goldGod",
+            "cc.AudioClip"
+        ],
+        "6dSzGveL5Gzo6tEZQTNea2": [
+            "gongji",
+            "cc.AudioClip"
+        ],
+        "20uU5C6DZE/aE6lyOhZ7l8": [
+            "huode",
+            "cc.AudioClip"
+        ],
+        "feIG9Cd0lIT41O7zHuRS38": [
+            "lotus",
+            "cc.AudioClip"
+        ],
+        "97DjW3dnJB4oFENS6hGo7O": [
+            "moonGod",
+            "cc.AudioClip"
+        ],
+        "4f2oZWBlNCmI1DO+6VRtJb": [
+            "shengji",
+            "cc.AudioClip"
+        ],
+        "9crVCJbSNNN7ZyJC9X6VOO": [
+            "shibai",
+            "cc.AudioClip"
+        ],
+        "919bbXSotG95NeYXAmEBWl": [
+            "shouji",
+            "cc.AudioClip"
+        ],
+        "c4vmR9wLRBJ64h9h7ru7Lc": [
+            "siwang",
+            "cc.AudioClip"
+        ],
+        "5fBBXBD7lI94W6u9hk1THI": [
+            "summon",
+            "cc.AudioClip"
+        ],
+        "69WezfiMtCF67LXN58vQfU": [
+            "swordHit",
+            "cc.AudioClip"
+        ],
+        "7cIEocrJFLQb9Nan1YdGAR": [
+            "tiezhen",
+            "cc.AudioClip"
+        ]
+    },
+    "uuids": [
+        "20uU5C6DZE/aE6lyOhZ7l8",
+        "24QwSZDSNB9rWy/Rwpu9Qb",
+        "4f2oZWBlNCmI1DO+6VRtJb",
+        "5fBBXBD7lI94W6u9hk1THI",
+        "69WezfiMtCF67LXN58vQfU",
+        "6dSzGveL5Gzo6tEZQTNea2",
+        "7cIEocrJFLQb9Nan1YdGAR",
+        "89IDlak2JFnq6iig1u4DEx",
+        "919bbXSotG95NeYXAmEBWl",
+        "97DjW3dnJB4oFENS6hGo7O",
+        "9crVCJbSNNN7ZyJC9X6VOO",
+        "adlpdNFGRFvY7/VghU9bsK",
+        "c4vmR9wLRBJ64h9h7ru7Lc",
+        "d8jq5X9hBPW6OI/EHge86K",
+        "feIG9Cd0lIT41O7zHuRS38"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "DBS_Audio",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false,
+    "versions": {
+        "import": [
+            "20uU5C6DZE/aE6lyOhZ7l8",
+            "ac449",
+            "24QwSZDSNB9rWy/Rwpu9Qb",
+            "da0fb",
+            "4f2oZWBlNCmI1DO+6VRtJb",
+            "8ebd2",
+            "5fBBXBD7lI94W6u9hk1THI",
+            "63a91",
+            "69WezfiMtCF67LXN58vQfU",
+            "871d3",
+            "6dSzGveL5Gzo6tEZQTNea2",
+            "78d7f",
+            "7cIEocrJFLQb9Nan1YdGAR",
+            "8a0f7",
+            "89IDlak2JFnq6iig1u4DEx",
+            "0c505",
+            "919bbXSotG95NeYXAmEBWl",
+            "80945",
+            "97DjW3dnJB4oFENS6hGo7O",
+            "aa68f",
+            "9crVCJbSNNN7ZyJC9X6VOO",
+            "9a2c9",
+            "adlpdNFGRFvY7/VghU9bsK",
+            "f8146",
+            "c4vmR9wLRBJ64h9h7ru7Lc",
+            "11d94",
+            "d8jq5X9hBPW6OI/EHge86K",
+            "79779",
+            "feIG9Cd0lIT41O7zHuRS38",
+            "a802b"
+        ],
+        "native": [
+            "20uU5C6DZE/aE6lyOhZ7l8",
+            "fe32c",
+            "24QwSZDSNB9rWy/Rwpu9Qb",
+            "21186",
+            "4f2oZWBlNCmI1DO+6VRtJb",
+            "859ff",
+            "5fBBXBD7lI94W6u9hk1THI",
+            "0587a",
+            "69WezfiMtCF67LXN58vQfU",
+            "f8b62",
+            "6dSzGveL5Gzo6tEZQTNea2",
+            "bdbc0",
+            "7cIEocrJFLQb9Nan1YdGAR",
+            "bf3f8",
+            "89IDlak2JFnq6iig1u4DEx",
+            "7fa80",
+            "919bbXSotG95NeYXAmEBWl",
+            "2b3b7",
+            "97DjW3dnJB4oFENS6hGo7O",
+            "5d50d",
+            "9crVCJbSNNN7ZyJC9X6VOO",
+            "1faa1",
+            "adlpdNFGRFvY7/VghU9bsK",
+            "b3430",
+            "c4vmR9wLRBJ64h9h7ru7Lc",
+            "5ccf2",
+            "d8jq5X9hBPW6OI/EHge86K",
+            "c9e87",
+            "feIG9Cd0lIT41O7zHuRS38",
+            "e44be"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "paths": {
+        "6atd43VdhLRr4DrXrGsrFH": [
+            "GameJsonCfg",
+            "cc.JsonAsset"
+        ]
+    },
+    "uuids": [
+        "6atd43VdhLRr4DrXrGsrFH"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "hold_configs",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false,
+    "versions": {
+        "import": [
+            "6atd43VdhLRr4DrXrGsrFH",
+            "68560"
+        ],
+        "native": []
+    }
+}

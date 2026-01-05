@@ -1,0 +1,76 @@
+{
+    "paths": {
+        "32lR7KkpBDYb+sBws+3Gl2": [
+            "Cards",
+            "cc.AudioClip"
+        ],
+        "96AqbtPO5JdItQAybtYIIH": [
+            "Levels",
+            "cc.AudioClip"
+        ],
+        "9a/hEtDrxHWYUnckBn/7e+": [
+            "attack2",
+            "cc.AudioClip"
+        ],
+        "2fQ5hdIxJBY6GvgkU3VeWl": [
+            "fail",
+            "cc.AudioClip"
+        ],
+        "58BS32Z/9GzZQO6gs0zDZo": [
+            "strike",
+            "cc.AudioClip"
+        ],
+        "8eH+Tl1SNNIbLZxoKtaGgc": [
+            "victory",
+            "cc.AudioClip"
+        ]
+    },
+    "uuids": [
+        "2fQ5hdIxJBY6GvgkU3VeWl",
+        "32lR7KkpBDYb+sBws+3Gl2",
+        "58BS32Z/9GzZQO6gs0zDZo",
+        "8eH+Tl1SNNIbLZxoKtaGgc",
+        "96AqbtPO5JdItQAybtYIIH",
+        "9a/hEtDrxHWYUnckBn/7e+"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "pbt_audios",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false,
+    "versions": {
+        "import": [
+            "2fQ5hdIxJBY6GvgkU3VeWl",
+            "3154e",
+            "32lR7KkpBDYb+sBws+3Gl2",
+            "f31d7",
+            "58BS32Z/9GzZQO6gs0zDZo",
+            "acbc4",
+            "8eH+Tl1SNNIbLZxoKtaGgc",
+            "b42a8",
+            "96AqbtPO5JdItQAybtYIIH",
+            "d91ba",
+            "9a/hEtDrxHWYUnckBn/7e+",
+            "9c2f7"
+        ],
+        "native": [
+            "2fQ5hdIxJBY6GvgkU3VeWl",
+            "05181",
+            "32lR7KkpBDYb+sBws+3Gl2",
+            "59b26",
+            "58BS32Z/9GzZQO6gs0zDZo",
+            "5aabc",
+            "8eH+Tl1SNNIbLZxoKtaGgc",
+            "9f983",
+            "96AqbtPO5JdItQAybtYIIH",
+            "5d455",
+            "9a/hEtDrxHWYUnckBn/7e+",
+            "f7625"
+        ]
+    }
+}

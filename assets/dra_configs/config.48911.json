@@ -1,0 +1,28 @@
+{
+    "paths": {
+        "ccTtpE2UxMjoI/hBk8ajMT": [
+            "GameJsonCfg",
+            "cc.JsonAsset"
+        ]
+    },
+    "uuids": [
+        "ccTtpE2UxMjoI/hBk8ajMT"
+    ],
+    "scenes": {},
+    "redirect": [],
+    "deps": [],
+    "packs": {},
+    "name": "dra_configs",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false,
+    "versions": {
+        "import": [
+            "ccTtpE2UxMjoI/hBk8ajMT",
+            "b35b2"
+        ],
+        "native": []
+    }
+}

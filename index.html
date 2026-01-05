@@ -41,16 +41,16 @@
   <link rel="icon" href="favicon.8de18.ico"/>
 </head>
 <body>
-  <canvas id="GameCanvas" oncontextmenu="event.preventDefault()" tabindex="0" width="960" height="640"></canvas>
+  <canvas id="GameCanvas" oncontextmenu="event.preventDefault()" tabindex="0"></canvas>
   <div id="splash">
     <div class="progress-bar stripes">
       <span style="width: 0%"></span>
     </div>
   </div>
 
-<script src="src/settings.a0c43.js" charset="utf-8"></script>
-
-<script src="main.6acec.js" charset="utf-8"></script>
+<script src="src/settings.16992.js" charset="utf-8"></script>
+<script src="vconsole.min.bac6b.js"></script>
+<script src="main.cc03a.js" charset="utf-8"></script>
 
 <script type="text/javascript">
 (function () {
@@ -76,9 +76,9 @@
       document.body.appendChild(domScript);
     }
 
-    loadScript(debug ? 'cocos2d-js.js' : 'cocos2d-js-min.0d113.js', function () {
+    loadScript(debug ? 'cocos2d-js.64ea7.js' : 'cocos2d-js-min.js', function () {
       if (CC_PHYSICS_BUILTIN || CC_PHYSICS_CANNON) {
-        loadScript(debug ? 'physics.js' : 'physics-min.ad9a7.js', window.boot);
+        loadScript(debug ? 'physics.8474b.js' : 'physics-min.js', window.boot);
       }
       else {
         window.boot();
